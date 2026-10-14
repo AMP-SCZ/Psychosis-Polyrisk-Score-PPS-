@@ -9,4 +9,3 @@ The scripts include:
 
 No individual-level AMP SCZ or EU-GEI data are included in this repository.
 
-Add README

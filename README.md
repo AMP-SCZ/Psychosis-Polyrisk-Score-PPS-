@@ -10,12 +10,11 @@ The scripts include:
 
 No individual-level AMP SCZ or EU-GEI data are included in this repository.
 
-## Associated publication
+## Reference Publication
 
-This repository contains the analytic code associated with:
+The use of this code should acknowledge the original publication:
 
 Stefanelli R, Oliver D, Damiani S, et al. External validation and refinement of the Psychosis Polyrisk Score to detect individuals at clinical high risk for psychosis. BMJ Mental Health. 2026.
 
 Article link: http://mentalhealth.bmj.com/cgi/content/full/bmjment-2026-302838
 
-Please cite this article when using or adapting the code in this repository.
